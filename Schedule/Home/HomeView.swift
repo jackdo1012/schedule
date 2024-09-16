@@ -38,7 +38,7 @@ struct HomeView: View {
                             ForEach(schedule) { eachClass in
                                 GridRow {
                                     Text(eachClass.name)
-                                    Text(eachClass.room == "0" ? "Homeroom" : eachClass.room)
+                                    Text(eachClass.room == "0" ? "IC" : eachClass.room)
                                 }
                                 Rectangle()
                                     .fill(.secondary)
