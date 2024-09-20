@@ -45,7 +45,7 @@ struct Schedule {
     ]
     private let b = [
         Classes(name: "HR", room: "225"),
-        Classes(name: "Pre calc", room: "314"),
+        Classes(name: "Pre calc", room: "214"),
         Classes(name: "Engineering", room: "135"),
         Classes(name: "Religion", room: "0"),
         Classes(name: "Robotics", room: "135"),
@@ -56,7 +56,7 @@ struct Schedule {
         Classes(name: "Physics", room: "132"),
         Classes(name: "American Lit", room: "124"),
         Classes(name: "Study Hall", room: "0"),
-        Classes(name: "Pre calc", room: "314"),
+        Classes(name: "Pre calc", room: "214"),
         Classes(name: "Engineering", room: "135"),
     ]
     private let d = [
@@ -70,7 +70,7 @@ struct Schedule {
     private let e = [
         Classes(name: "HR", room: "225"),
         Classes(name: "Study Hall", room: "0"),
-        Classes(name: "Pre calc", room: "314"),
+        Classes(name: "Pre calc", room: "214"),
         Classes(name: "Engineering", room: "135"),
         Classes(name: "Religion", room: "0"),
         Classes(name: "Robotics", room: "135"),
@@ -81,7 +81,7 @@ struct Schedule {
         Classes(name: "Physics", room: "132"),
         Classes(name: "American Lit", room: "124"),
         Classes(name: "Study Hall", room: "0"),
-        Classes(name: "Pre calc", room: "314"),
+        Classes(name: "Pre calc", room: "214"),
     ]
     private let g = [
         Classes(name: "HR", room: "225"),
@@ -95,7 +95,7 @@ struct Schedule {
         Classes(name: "HR", room: "225"),
         Classes(name: "American Lit", room: "124"),
         Classes(name: "Study Hall", room: "0"),
-        Classes(name: "Pre calc", room: "314"),
+        Classes(name: "Pre calc", room: "214"),
         Classes(name: "Engineering", room: "135"),
         Classes(name: "Religion", room: "0"),
     ]
